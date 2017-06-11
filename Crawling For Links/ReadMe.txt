@@ -6,6 +6,6 @@
 
 3. links.db - The actual database file worked with. After code completion and crawling through all the links, the database now has the stack table empty and the visited table now contains all the valid addresses in the intranet.
 
-4. re_crawl.py - Contains a code snippet used in previous attempt to crawl the intranet. It did not work because the program exceeds the recursion limit of python. As it is dangerous to change the recursion limit of Python, a "stack" table was used in the database to save the links to be crawled. You may use DBSqlite Browser to view the links.db file.
+4. re_crawl.py - Contains a code snippet used in previous attempt to crawl the intranet. It did not work because the program exceeds the recursion limit of python. As it is dangerous to change the recursion limit of Python, a "stack" table was used in the database to save the links to be crawled. 
 
-	The Final Output table "visited" in the links database contains all the valid intranet links.
+	The Final Output table "visited" in the links database contains all the valid intranet links. You may use DBSqlite Browser to view the links.db file.
