@@ -1,0 +1,106 @@
+{
+    "ail": [
+        "https://webmail.iitg.ernet.in/",
+        "http://webmail.iitg.ernet.in/",
+        "https://webmail.iitg.ernet.in/src/login.php",
+        "http://webmail.iitg.ernet.in/src/login.php",
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes",
+        "http://webmail.iitg.ernet.in/src/webmail.php",
+        "https://webmail.iitg.ernet.in/src/webmail.php"
+    ],
+    "cur": [
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes"
+    ],
+    "cure": [
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes"
+    ],
+    "er": [
+        "https://webmail.iitg.ernet.in/",
+        "http://webmail.iitg.ernet.in/",
+        "https://webmail.iitg.ernet.in/src/login.php",
+        "http://webmail.iitg.ernet.in/src/login.php",
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes",
+        "http://webmail.iitg.ernet.in/src/webmail.php",
+        "https://webmail.iitg.ernet.in/src/webmail.php"
+    ],
+    "gin": [
+        "https://webmail.iitg.ernet.in/src/login.php",
+        "http://webmail.iitg.ernet.in/src/login.php",
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes"
+    ],
+    "iitg": [
+        "https://webmail.iitg.ernet.in/",
+        "http://webmail.iitg.ernet.in/",
+        "https://webmail.iitg.ernet.in/src/login.php",
+        "http://webmail.iitg.ernet.in/src/login.php",
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes",
+        "http://webmail.iitg.ernet.in/src/webmail.php",
+        "https://webmail.iitg.ernet.in/src/webmail.php"
+    ],
+    "log": [
+        "https://webmail.iitg.ernet.in/src/login.php",
+        "http://webmail.iitg.ernet.in/src/login.php",
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes"
+    ],
+    "login": [
+        "https://webmail.iitg.ernet.in/src/login.php",
+        "http://webmail.iitg.ernet.in/src/login.php",
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes"
+    ],
+    "mail": [
+        "https://webmail.iitg.ernet.in/",
+        "http://webmail.iitg.ernet.in/",
+        "https://webmail.iitg.ernet.in/src/login.php",
+        "http://webmail.iitg.ernet.in/src/login.php",
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes",
+        "http://webmail.iitg.ernet.in/src/webmail.php",
+        "https://webmail.iitg.ernet.in/src/webmail.php"
+    ],
+    "net": [
+        "https://webmail.iitg.ernet.in/",
+        "http://webmail.iitg.ernet.in/",
+        "https://webmail.iitg.ernet.in/src/login.php",
+        "http://webmail.iitg.ernet.in/src/login.php",
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes",
+        "http://webmail.iitg.ernet.in/src/webmail.php",
+        "https://webmail.iitg.ernet.in/src/webmail.php"
+    ],
+    "sec": [
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes"
+    ],
+    "secure": [
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes"
+    ],
+    "src": [
+        "https://webmail.iitg.ernet.in/src/login.php",
+        "http://webmail.iitg.ernet.in/src/login.php",
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes",
+        "http://webmail.iitg.ernet.in/src/webmail.php",
+        "https://webmail.iitg.ernet.in/src/webmail.php"
+    ],
+    "web": [
+        "https://webmail.iitg.ernet.in/",
+        "http://webmail.iitg.ernet.in/",
+        "https://webmail.iitg.ernet.in/src/login.php",
+        "http://webmail.iitg.ernet.in/src/login.php",
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes",
+        "http://webmail.iitg.ernet.in/src/webmail.php",
+        "https://webmail.iitg.ernet.in/src/webmail.php"
+    ],
+    "webmail": [
+        "http://webmail.iitg.ernet.in/src/webmail.php",
+        "https://webmail.iitg.ernet.in/src/webmail.php"
+    ],
+    "webmail.iitg.ernet.in": [
+        "https://webmail.iitg.ernet.in/",
+        "http://webmail.iitg.ernet.in/",
+        "https://webmail.iitg.ernet.in/src/login.php",
+        "http://webmail.iitg.ernet.in/src/login.php",
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes",
+        "http://webmail.iitg.ernet.in/src/webmail.php",
+        "https://webmail.iitg.ernet.in/src/webmail.php"
+    ],
+    "yes": [
+        "https://webmail.iitg.ernet.in/src/login.php?secure_login=yes"
+    ]
+}

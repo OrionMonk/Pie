@@ -1,0 +1,2032 @@
+{
+    "Bo": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html"
+    ],
+    "Boa": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "Boar": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "Board": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "Cult": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html"
+    ],
+    "Cultural": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html"
+    ],
+    "Cultural Board": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html"
+    ],
+    "HA": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html"
+    ],
+    "Sen": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html"
+    ],
+    "Sena": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html"
+    ],
+    "Senate": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html"
+    ],
+    "about": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html"
+    ],
+    "academic": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html"
+    ],
+    "act": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html"
+    ],
+    "acts": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html"
+    ],
+    "acumen": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html"
+    ],
+    "aero": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html"
+    ],
+    "aeromodelling": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html"
+    ],
+    "age": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html"
+    ],
+    "all": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html"
+    ],
+    "an": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/extra.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/index.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html"
+    ],
+    "anchor": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php"
+    ],
+    "anchorenza": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php"
+    ],
+    "aqua": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html"
+    ],
+    "aquatic": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html"
+    ],
+    "aquatics": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html"
+    ],
+    "arc": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "arch": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "archive": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php"
+    ],
+    "archiveauralday1": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php"
+    ],
+    "are": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "art": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html"
+    ],
+    "arts": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html"
+    ],
+    "ash": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html"
+    ],
+    "ask": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html"
+    ],
+    "astronomy": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html"
+    ],
+    "ate": [
+        "http://kolong.iitg.ernet.in/stud/corporate.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php"
+    ],
+    "athletic": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html"
+    ],
+    "athletics": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html"
+    ],
+    "aura": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php"
+    ],
+    "aural": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php"
+    ],
+    "auto": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html"
+    ],
+    "automobile": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html"
+    ],
+    "bad": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html"
+    ],
+    "badminton": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html"
+    ],
+    "ball": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html"
+    ],
+    "bas": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html"
+    ],
+    "bask": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html"
+    ],
+    "basket": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html"
+    ],
+    "basketball": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html"
+    ],
+    "bile": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html"
+    ],
+    "boa": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "boar": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "board": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "bot": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html"
+    ],
+    "bout": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html"
+    ],
+    "cad": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html"
+    ],
+    "cal": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html"
+    ],
+    "cat": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/education.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php"
+    ],
+    "cation": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/education.html"
+    ],
+    "chi": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php"
+    ],
+    "chive": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php"
+    ],
+    "chore": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php"
+    ],
+    "club": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/",
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/index.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/spirit.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html"
+    ],
+    "clubs": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/",
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/index.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/spirit.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html"
+    ],
+    "cod": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html"
+    ],
+    "coding": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html"
+    ],
+    "con": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html"
+    ],
+    "cont": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html"
+    ],
+    "contact": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html"
+    ],
+    "contacts": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html"
+    ],
+    "corp": [
+        "http://kolong.iitg.ernet.in/stud/corporate.html"
+    ],
+    "corpora": [
+        "http://kolong.iitg.ernet.in/stud/corporate.html"
+    ],
+    "corporate": [
+        "http://kolong.iitg.ernet.in/stud/corporate.html"
+    ],
+    "crick": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html"
+    ],
+    "cricket": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html"
+    ],
+    "ctr": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html"
+    ],
+    "cult": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php"
+    ],
+    "cultboard": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php"
+    ],
+    "culthome": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html"
+    ],
+    "cum": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html"
+    ],
+    "d.ankit": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/extra.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/index.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html"
+    ],
+    "dance": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html"
+    ],
+    "day": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php"
+    ],
+    "dedicate": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php"
+    ],
+    "dell": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html"
+    ],
+    "din": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html"
+    ],
+    "ding": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html"
+    ],
+    "dram": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html"
+    ],
+    "drama": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html"
+    ],
+    "drib": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html"
+    ],
+    "ducat": [
+        "http://kolong.iitg.ernet.in/stud/education.html"
+    ],
+    "ear": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "edc": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html"
+    ],
+    "educ": [
+        "http://kolong.iitg.ernet.in/stud/education.html"
+    ],
+    "education": [
+        "http://kolong.iitg.ernet.in/stud/education.html"
+    ],
+    "eight": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html"
+    ],
+    "elect": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html"
+    ],
+    "electro": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html"
+    ],
+    "electron": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html"
+    ],
+    "electronic": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html"
+    ],
+    "electronics": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html"
+    ],
+    "elf": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "ell": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html"
+    ],
+    "enza": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php"
+    ],
+    "er": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/",
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/index.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/spirit.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html",
+        "http://kolong.iitg.ernet.in/stud/corporate.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/extra.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/index.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/education.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html",
+        "http://kolong.iitg.ernet.in/stud/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html",
+        "http://kolong.iitg.ernet.in/stud/phd.html",
+        "http://kolong.iitg.ernet.in/stud/projects.html",
+        "http://kolong.iitg.ernet.in/stud/vinit"
+    ],
+    "era": [
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "ext": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/extra.html"
+    ],
+    "extra": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/extra.html"
+    ],
+    "far": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "fare": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "fin": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html"
+    ],
+    "finance": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html"
+    ],
+    "foot": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html"
+    ],
+    "football": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html"
+    ],
+    "gsa": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/",
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/index.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/spirit.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html"
+    ],
+    "gym": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "gymkhana": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "hab": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html"
+    ],
+    "hive": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php"
+    ],
+    "hoc": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html"
+    ],
+    "hock": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html"
+    ],
+    "hockey": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html"
+    ],
+    "home": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/"
+    ],
+    "hos": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html"
+    ],
+    "host": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html"
+    ],
+    "hostel": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html"
+    ],
+    "hostelBoard": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html"
+    ],
+    "iit": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html"
+    ],
+    "iitg": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/",
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/index.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/spirit.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html",
+        "http://kolong.iitg.ernet.in/stud/corporate.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/extra.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/index.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/education.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html",
+        "http://kolong.iitg.ernet.in/stud/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html",
+        "http://kolong.iitg.ernet.in/stud/phd.html",
+        "http://kolong.iitg.ernet.in/stud/projects.html",
+        "http://kolong.iitg.ernet.in/stud/vinit"
+    ],
+    "ind": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/index.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html"
+    ],
+    "index": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/index.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html"
+    ],
+    "int": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html"
+    ],
+    "inter": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/"
+    ],
+    "inter_iit_stud": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html"
+    ],
+    "intern": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/"
+    ],
+    "internet": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/"
+    ],
+    "into": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html"
+    ],
+    "intra": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html"
+    ],
+    "intranet": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html"
+    ],
+    "ion": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/education.html"
+    ],
+    "key": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html"
+    ],
+    "khan": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "kit": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/extra.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/index.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html"
+    ],
+    "ko": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/",
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/index.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/spirit.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html",
+        "http://kolong.iitg.ernet.in/stud/corporate.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/extra.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/index.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/education.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html",
+        "http://kolong.iitg.ernet.in/stud/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html",
+        "http://kolong.iitg.ernet.in/stud/phd.html",
+        "http://kolong.iitg.ernet.in/stud/projects.html",
+        "http://kolong.iitg.ernet.in/stud/vinit"
+    ],
+    "kolong.iitg.ernet.in": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/",
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/index.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/spirit.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html",
+        "http://kolong.iitg.ernet.in/stud/corporate.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/extra.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/index.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/education.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html",
+        "http://kolong.iitg.ernet.in/stud/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html",
+        "http://kolong.iitg.ernet.in/stud/phd.html",
+        "http://kolong.iitg.ernet.in/stud/projects.html",
+        "http://kolong.iitg.ernet.in/stud/vinit"
+    ],
+    "ku": [
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "let": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html"
+    ],
+    "lift": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html"
+    ],
+    "lifting": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html"
+    ],
+    "ling": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html"
+    ],
+    "lit": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html"
+    ],
+    "long": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/",
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/index.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/spirit.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html",
+        "http://kolong.iitg.ernet.in/stud/corporate.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/extra.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/index.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/education.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html",
+        "http://kolong.iitg.ernet.in/stud/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html",
+        "http://kolong.iitg.ernet.in/stud/phd.html",
+        "http://kolong.iitg.ernet.in/stud/projects.html",
+        "http://kolong.iitg.ernet.in/stud/vinit"
+    ],
+    "mar": [
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "me": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html"
+    ],
+    "meet": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html"
+    ],
+    "men": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html"
+    ],
+    "min": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html"
+    ],
+    "mint": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html"
+    ],
+    "minute": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html"
+    ],
+    "minutes": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html"
+    ],
+    "mob": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html"
+    ],
+    "mobile": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html"
+    ],
+    "mod": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html"
+    ],
+    "mode": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html"
+    ],
+    "model": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html"
+    ],
+    "montage": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html"
+    ],
+    "movie": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html"
+    ],
+    "mus": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html"
+    ],
+    "music": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html"
+    ],
+    "ne": [
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "neeraj.kumar": [
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "net": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/",
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/index.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/spirit.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html",
+        "http://kolong.iitg.ernet.in/stud/corporate.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/extra.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/index.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/education.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html",
+        "http://kolong.iitg.ernet.in/stud/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html",
+        "http://kolong.iitg.ernet.in/stud/phd.html",
+        "http://kolong.iitg.ernet.in/stud/projects.html",
+        "http://kolong.iitg.ernet.in/stud/vinit"
+    ],
+    "nis": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html"
+    ],
+    "nit": [
+        "http://kolong.iitg.ernet.in/stud/vinit"
+    ],
+    "nut": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html"
+    ],
+    "oar": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "obi": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html"
+    ],
+    "ode": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html"
+    ],
+    "orate": [
+        "http://kolong.iitg.ernet.in/stud/corporate.html"
+    ],
+    "ore": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php"
+    ],
+    "out": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html"
+    ],
+    "owe": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html"
+    ],
+    "phd": [
+        "http://kolong.iitg.ernet.in/stud/phd.html"
+    ],
+    "port": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html"
+    ],
+    "ports": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html"
+    ],
+    "pow": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html"
+    ],
+    "power": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html"
+    ],
+    "prakriti": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html"
+    ],
+    "pro": [
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/projects.html"
+    ],
+    "project": [
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/projects.html"
+    ],
+    "projects": [
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/projects.html"
+    ],
+    "pub": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html"
+    ],
+    "public": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html"
+    ],
+    "publication": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html"
+    ],
+    "qua": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html"
+    ],
+    "quash": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html"
+    ],
+    "rad": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html"
+    ],
+    "radio": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html"
+    ],
+    "radiog": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html"
+    ],
+    "raj": [
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "ram": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html"
+    ],
+    "ran": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html"
+    ],
+    "rat": [
+        "http://kolong.iitg.ernet.in/stud/corporate.html"
+    ],
+    "rate": [
+        "http://kolong.iitg.ernet.in/stud/corporate.html"
+    ],
+    "red": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html"
+    ],
+    "redribbon": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html"
+    ],
+    "res": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "research": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "rib": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html"
+    ],
+    "ribbon": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html"
+    ],
+    "rick": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html"
+    ],
+    "rig": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html"
+    ],
+    "right": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html"
+    ],
+    "rights": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html"
+    ],
+    "rob": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html"
+    ],
+    "robot": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html"
+    ],
+    "robotic": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html"
+    ],
+    "robotics": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html"
+    ],
+    "saathi": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html"
+    ],
+    "sea": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "sear": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "search": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html"
+    ],
+    "sen": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html"
+    ],
+    "senate": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html"
+    ],
+    "sgc": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html"
+    ],
+    "sgc1": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html"
+    ],
+    "sic": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html"
+    ],
+    "soc": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html"
+    ],
+    "social": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html"
+    ],
+    "spirit": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/spirit.html"
+    ],
+    "sport": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html"
+    ],
+    "sports": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html"
+    ],
+    "sportsboard": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html"
+    ],
+    "sportsclub": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html"
+    ],
+    "squash": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html"
+    ],
+    "staff": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html",
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html"
+    ],
+    "staff sports meet 2016": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff sports meet 2016.html"
+    ],
+    "staff_team": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html"
+    ],
+    "stud": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/inter_iit_stud.html",
+        "http://kolong.iitg.ernet.in/stud/corporate.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/about.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/extra.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/index.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/publication.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/research.html",
+        "http://kolong.iitg.ernet.in/stud/education.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/power.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Senate/senate.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/HA/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/minutes.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/basketball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/cricket.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/football.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/hockey.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsboard.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/sportsclub.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/squash.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html",
+        "http://kolong.iitg.ernet.in/stud/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/academic.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/index.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/projects.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/research.html",
+        "http://kolong.iitg.ernet.in/stud/phd.html",
+        "http://kolong.iitg.ernet.in/stud/projects.html",
+        "http://kolong.iitg.ernet.in/stud/vinit"
+    ],
+    "tact": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/contact.html",
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html",
+        "http://kolong.iitg.ernet.in/stud/neeraj.kumar/contact.html"
+    ],
+    "tacts": [
+        "http://kolong.iitg.ernet.in/stud/d.ankit/contacts.html"
+    ],
+    "tag": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html"
+    ],
+    "tea": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html"
+    ],
+    "team": [
+        "http://kolong.iitg.ernet.in/clubs/gsa/staff_team.html"
+    ],
+    "tech": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html"
+    ],
+    "technical": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/acumen.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/aeromodelling.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/astronomy.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/coding.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/edc.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/electronics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/finance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/index.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/prakriti.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/radiog.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/sgc/sgc1.html"
+    ],
+    "tel": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/hostelBoard/hab.html"
+    ],
+    "ten": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html"
+    ],
+    "tennis": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tennis.html"
+    ],
+    "tern": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/internet/home/"
+    ],
+    "tho": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html"
+    ],
+    "tic": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html"
+    ],
+    "tics": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/aquatics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/athletics.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/robotics.html"
+    ],
+    "tin": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html"
+    ],
+    "ting": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html"
+    ],
+    "tom": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/technical/automobile.html"
+    ],
+    "ton": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/badminton.html"
+    ],
+    "tt": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/tt.html"
+    ],
+    "ult": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/anchor.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/arts.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/culthome.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/dance.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/drama.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/lit.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/montage.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/music.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/archiveauralday1.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/dedicate.php",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/intranet/cultboard/anchorenza/index.php"
+    ],
+    "vi": [
+        "http://kolong.iitg.ernet.in/stud/vinit"
+    ],
+    "vie": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/Cultural Board/movie.html"
+    ],
+    "vinit": [
+        "http://kolong.iitg.ernet.in/stud/vinit"
+    ],
+    "vol": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html"
+    ],
+    "volley": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html"
+    ],
+    "volleyball": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/volleyball.html"
+    ],
+    "weigh": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html"
+    ],
+    "weight": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html"
+    ],
+    "weightlifting": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/sports/weightlifting.html"
+    ],
+    "welfare": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "welfareBoard": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/academic.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/redribbon.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/rights.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/saathi.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/social.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html",
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "welfareboard": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/welfareboard.html"
+    ],
+    "you": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html"
+    ],
+    "youth": [
+        "http://kolong.iitg.ernet.in/stud/gymkhana/welfareBoard/clubs/youth.html"
+    ]
+}

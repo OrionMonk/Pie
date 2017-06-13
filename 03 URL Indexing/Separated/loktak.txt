@@ -1,0 +1,12 @@
+http://loktak.iitg.ernet.in/
+http://loktak.iitg.ernet.in/course/
+http://loktak.iitg.ernet.in/~jatin
+http://loktak.iitg.ernet.in/~svrao
+http://loktak.iitg.ernet.in/~svrao?C=D;O=A
+http://loktak.iitg.ernet.in/~svrao?C=D;O=D
+http://loktak.iitg.ernet.in/~svrao?C=M;O=A
+http://loktak.iitg.ernet.in/~svrao?C=M;O=D
+http://loktak.iitg.ernet.in/~svrao?C=N;O=A
+http://loktak.iitg.ernet.in/~svrao?C=N;O=D
+http://loktak.iitg.ernet.in/~svrao?C=S;O=A
+http://loktak.iitg.ernet.in/~svrao?C=S;O=D

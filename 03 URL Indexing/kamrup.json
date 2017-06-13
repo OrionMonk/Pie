@@ -1,0 +1,58 @@
+{
+    "ass": [
+        "https://kamrup.iitg.ernet.in/passwd"
+    ],
+    "asswd": [
+        "https://kamrup.iitg.ernet.in/passwd"
+    ],
+    "er": [
+        "https://kamrup.iitg.ernet.in/finduser/finger.php",
+        "https://kamrup.iitg.ernet.in/passwd"
+    ],
+    "fin": [
+        "https://kamrup.iitg.ernet.in/finduser/finger.php"
+    ],
+    "find": [
+        "https://kamrup.iitg.ernet.in/finduser/finger.php"
+    ],
+    "finduser": [
+        "https://kamrup.iitg.ernet.in/finduser/finger.php"
+    ],
+    "finger": [
+        "https://kamrup.iitg.ernet.in/finduser/finger.php"
+    ],
+    "iitg": [
+        "https://kamrup.iitg.ernet.in/finduser/finger.php",
+        "https://kamrup.iitg.ernet.in/passwd"
+    ],
+    "ind": [
+        "https://kamrup.iitg.ernet.in/finduser/finger.php"
+    ],
+    "kamrup": [
+        "https://kamrup.iitg.ernet.in/finduser/finger.php",
+        "https://kamrup.iitg.ernet.in/passwd"
+    ],
+    "kamrup.iitg.ernet.in": [
+        "https://kamrup.iitg.ernet.in/finduser/finger.php",
+        "https://kamrup.iitg.ernet.in/passwd"
+    ],
+    "net": [
+        "https://kamrup.iitg.ernet.in/finduser/finger.php",
+        "https://kamrup.iitg.ernet.in/passwd"
+    ],
+    "pas": [
+        "https://kamrup.iitg.ernet.in/passwd"
+    ],
+    "pass": [
+        "https://kamrup.iitg.ernet.in/passwd"
+    ],
+    "passwd": [
+        "https://kamrup.iitg.ernet.in/passwd"
+    ],
+    "use": [
+        "https://kamrup.iitg.ernet.in/finduser/finger.php"
+    ],
+    "user": [
+        "https://kamrup.iitg.ernet.in/finduser/finger.php"
+    ]
+}

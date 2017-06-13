@@ -1,0 +1,239 @@
+{
+    "academic": [
+        "https://auto.iitg.ernet.in/academic/"
+    ],
+    "acadgrade": [
+        "https://auto.iitg.ernet.in/acadgrade/"
+    ],
+    "ads": [
+        "https://auto.iitg.ernet.in/phdrural/downloads/"
+    ],
+    "all": [
+        "https://auto.iitg.ernet.in/convohallseats/"
+    ],
+    "alls": [
+        "https://auto.iitg.ernet.in/convohallseats/"
+    ],
+    "auto": [
+        "https://auto.iitg.ernet.in/academic/",
+        "https://auto.iitg.ernet.in/acadgrade/",
+        "https://auto.iitg.ernet.in/convohallseats/",
+        "https://auto.iitg.ernet.in/dual",
+        "https://auto.iitg.ernet.in/epay",
+        "https://auto.iitg.ernet.in/ma",
+        "https://auto.iitg.ernet.in/mtechmdes",
+        "https://auto.iitg.ernet.in/mtechrural",
+        "https://auto.iitg.ernet.in/mtechtcs",
+        "https://auto.iitg.ernet.in/phd",
+        "https://auto.iitg.ernet.in/phdjrf",
+        "https://auto.iitg.ernet.in/phdrural",
+        "https://auto.iitg.ernet.in/phdrural/downloads/",
+        "https://auto.iitg.ernet.in/recruitment",
+        "https://auto.iitg.ernet.in/"
+    ],
+    "auto.iitg.ernet.in": [
+        "https://auto.iitg.ernet.in/academic/",
+        "https://auto.iitg.ernet.in/acadgrade/",
+        "https://auto.iitg.ernet.in/convohallseats/",
+        "https://auto.iitg.ernet.in/dual",
+        "https://auto.iitg.ernet.in/epay",
+        "https://auto.iitg.ernet.in/ma",
+        "https://auto.iitg.ernet.in/mtechmdes",
+        "https://auto.iitg.ernet.in/mtechrural",
+        "https://auto.iitg.ernet.in/mtechtcs",
+        "https://auto.iitg.ernet.in/phd",
+        "https://auto.iitg.ernet.in/phdjrf",
+        "https://auto.iitg.ernet.in/phdrural",
+        "https://auto.iitg.ernet.in/phdrural/downloads/",
+        "https://auto.iitg.ernet.in/recruitment",
+        "https://auto.iitg.ernet.in/"
+    ],
+    "cad": [
+        "https://auto.iitg.ernet.in/acadgrade/",
+        "https://auto.iitg.ernet.in/academic/"
+    ],
+    "chm": [
+        "https://auto.iitg.ernet.in/mtechmdes"
+    ],
+    "con": [
+        "https://auto.iitg.ernet.in/convohallseats/"
+    ],
+    "convohallseats": [
+        "https://auto.iitg.ernet.in/convohallseats/"
+    ],
+    "des": [
+        "https://auto.iitg.ernet.in/mtechmdes"
+    ],
+    "down": [
+        "https://auto.iitg.ernet.in/phdrural/downloads/"
+    ],
+    "download": [
+        "https://auto.iitg.ernet.in/phdrural/downloads/"
+    ],
+    "downloads": [
+        "https://auto.iitg.ernet.in/phdrural/downloads/"
+    ],
+    "dual": [
+        "https://auto.iitg.ernet.in/dual"
+    ],
+    "eat": [
+        "https://auto.iitg.ernet.in/convohallseats/"
+    ],
+    "eats": [
+        "https://auto.iitg.ernet.in/convohallseats/"
+    ],
+    "ecru": [
+        "https://auto.iitg.ernet.in/recruitment"
+    ],
+    "epay": [
+        "https://auto.iitg.ernet.in/epay"
+    ],
+    "er": [
+        "https://auto.iitg.ernet.in/academic/",
+        "https://auto.iitg.ernet.in/acadgrade/",
+        "https://auto.iitg.ernet.in/convohallseats/",
+        "https://auto.iitg.ernet.in/dual",
+        "https://auto.iitg.ernet.in/epay",
+        "https://auto.iitg.ernet.in/ma",
+        "https://auto.iitg.ernet.in/mtechmdes",
+        "https://auto.iitg.ernet.in/mtechrural",
+        "https://auto.iitg.ernet.in/mtechtcs",
+        "https://auto.iitg.ernet.in/phd",
+        "https://auto.iitg.ernet.in/phdjrf",
+        "https://auto.iitg.ernet.in/phdrural",
+        "https://auto.iitg.ernet.in/phdrural/downloads/",
+        "https://auto.iitg.ernet.in/recruitment",
+        "https://auto.iitg.ernet.in/"
+    ],
+    "grad": [
+        "https://auto.iitg.ernet.in/acadgrade/"
+    ],
+    "grade": [
+        "https://auto.iitg.ernet.in/acadgrade/"
+    ],
+    "hall": [
+        "https://auto.iitg.ernet.in/convohallseats/"
+    ],
+    "halls": [
+        "https://auto.iitg.ernet.in/convohallseats/"
+    ],
+    "iitg": [
+        "https://auto.iitg.ernet.in/academic/",
+        "https://auto.iitg.ernet.in/acadgrade/",
+        "https://auto.iitg.ernet.in/convohallseats/",
+        "https://auto.iitg.ernet.in/dual",
+        "https://auto.iitg.ernet.in/epay",
+        "https://auto.iitg.ernet.in/ma",
+        "https://auto.iitg.ernet.in/mtechmdes",
+        "https://auto.iitg.ernet.in/mtechrural",
+        "https://auto.iitg.ernet.in/mtechtcs",
+        "https://auto.iitg.ernet.in/phd",
+        "https://auto.iitg.ernet.in/phdjrf",
+        "https://auto.iitg.ernet.in/phdrural",
+        "https://auto.iitg.ernet.in/phdrural/downloads/",
+        "https://auto.iitg.ernet.in/recruitment",
+        "https://auto.iitg.ernet.in/"
+    ],
+    "load": [
+        "https://auto.iitg.ernet.in/phdrural/downloads/"
+    ],
+    "loads": [
+        "https://auto.iitg.ernet.in/phdrural/downloads/"
+    ],
+    "ma": [
+        "https://auto.iitg.ernet.in/ma"
+    ],
+    "mdes": [
+        "https://auto.iitg.ernet.in/mtechmdes"
+    ],
+    "men": [
+        "https://auto.iitg.ernet.in/recruitment"
+    ],
+    "mtech": [
+        "https://auto.iitg.ernet.in/mtechmdes",
+        "https://auto.iitg.ernet.in/mtechrural",
+        "https://auto.iitg.ernet.in/mtechtcs"
+    ],
+    "mtechmdes": [
+        "https://auto.iitg.ernet.in/mtechmdes"
+    ],
+    "mtechrural": [
+        "https://auto.iitg.ernet.in/mtechrural"
+    ],
+    "mtechtcs": [
+        "https://auto.iitg.ernet.in/mtechtcs"
+    ],
+    "net": [
+        "https://auto.iitg.ernet.in/academic/",
+        "https://auto.iitg.ernet.in/acadgrade/",
+        "https://auto.iitg.ernet.in/convohallseats/",
+        "https://auto.iitg.ernet.in/dual",
+        "https://auto.iitg.ernet.in/epay",
+        "https://auto.iitg.ernet.in/ma",
+        "https://auto.iitg.ernet.in/mtechmdes",
+        "https://auto.iitg.ernet.in/mtechrural",
+        "https://auto.iitg.ernet.in/mtechtcs",
+        "https://auto.iitg.ernet.in/phd",
+        "https://auto.iitg.ernet.in/phdjrf",
+        "https://auto.iitg.ernet.in/phdrural",
+        "https://auto.iitg.ernet.in/phdrural/downloads/",
+        "https://auto.iitg.ernet.in/recruitment",
+        "https://auto.iitg.ernet.in/"
+    ],
+    "own": [
+        "https://auto.iitg.ernet.in/phdrural/downloads/"
+    ],
+    "pay": [
+        "https://auto.iitg.ernet.in/epay"
+    ],
+    "phd": [
+        "https://auto.iitg.ernet.in/phd",
+        "https://auto.iitg.ernet.in/phdrural",
+        "https://auto.iitg.ernet.in/phdrural/downloads/",
+        "https://auto.iitg.ernet.in/phdjrf"
+    ],
+    "phdjrf": [
+        "https://auto.iitg.ernet.in/phdjrf"
+    ],
+    "phdrural": [
+        "https://auto.iitg.ernet.in/phdrural",
+        "https://auto.iitg.ernet.in/phdrural/downloads/"
+    ],
+    "rad": [
+        "https://auto.iitg.ernet.in/acadgrade/"
+    ],
+    "rec": [
+        "https://auto.iitg.ernet.in/recruitment"
+    ],
+    "recruit": [
+        "https://auto.iitg.ernet.in/recruitment"
+    ],
+    "recruitment": [
+        "https://auto.iitg.ernet.in/recruitment"
+    ],
+    "rural": [
+        "https://auto.iitg.ernet.in/mtechrural",
+        "https://auto.iitg.ernet.in/phdrural",
+        "https://auto.iitg.ernet.in/phdrural/downloads/"
+    ],
+    "sea": [
+        "https://auto.iitg.ernet.in/convohallseats/"
+    ],
+    "seat": [
+        "https://auto.iitg.ernet.in/convohallseats/"
+    ],
+    "seats": [
+        "https://auto.iitg.ernet.in/convohallseats/"
+    ],
+    "tcs": [
+        "https://auto.iitg.ernet.in/mtechtcs"
+    ],
+    "tech": [
+        "https://auto.iitg.ernet.in/mtechmdes",
+        "https://auto.iitg.ernet.in/mtechrural",
+        "https://auto.iitg.ernet.in/mtechtcs"
+    ],
+    "vo": [
+        "https://auto.iitg.ernet.in/convohallseats/"
+    ]
+}

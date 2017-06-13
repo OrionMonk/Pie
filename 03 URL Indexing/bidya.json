@@ -1,0 +1,598 @@
+{
+    "Account": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html"
+    ],
+    "Add": [
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html"
+    ],
+    "Addi": [
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html"
+    ],
+    "Addition": [
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html"
+    ],
+    "Detail": [
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "Details": [
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "Help": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm"
+    ],
+    "Opac": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm"
+    ],
+    "OpacHelp": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm"
+    ],
+    "Pas": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html"
+    ],
+    "Pass": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html"
+    ],
+    "Password": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html"
+    ],
+    "Pro": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html"
+    ],
+    "Prof": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html"
+    ],
+    "Profile": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html"
+    ],
+    "Sea": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm"
+    ],
+    "Sear": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm"
+    ],
+    "Search": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm"
+    ],
+    "SearchTips": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm"
+    ],
+    "Tip": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm"
+    ],
+    "Tips": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm"
+    ],
+    "account": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html"
+    ],
+    "add": [
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html"
+    ],
+    "addition": [
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html"
+    ],
+    "ail": [
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "ails": [
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "arc": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html"
+    ],
+    "arch": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html"
+    ],
+    "ass": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html"
+    ],
+    "bid": [
+        "http://bidya.iitg.ernet.in/",
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in/opac/journals/null",
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in/opac/search/search.html",
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/null",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "bidya.iitg.ernet.in": [
+        "http://bidya.iitg.ernet.in/",
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in/opac/journals/null",
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in/opac/search/search.html",
+        "http://bidya.iitg.ernet.in/opac/userDetails"
+    ],
+    "bidya.iitg.ernet.in:8680": [
+        "http://bidya.iitg.ernet.in:8680/opac/",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/null",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "bro": [
+        "http://bidya.iitg.ernet.in/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html"
+    ],
+    "brow": [
+        "http://bidya.iitg.ernet.in/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html"
+    ],
+    "brows": [
+        "http://bidya.iitg.ernet.in/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html"
+    ],
+    "browse": [
+        "http://bidya.iitg.ernet.in/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html"
+    ],
+    "change": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html"
+    ],
+    "changePassword": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html"
+    ],
+    "check": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html"
+    ],
+    "checkout": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html"
+    ],
+    "count": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html"
+    ],
+    "ear": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html"
+    ],
+    "er": [
+        "http://bidya.iitg.ernet.in/",
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in/opac/journals/null",
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in/opac/search/search.html",
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/null",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "eta": [
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "file": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html"
+    ],
+    "hang": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html"
+    ],
+    "heck": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html"
+    ],
+    "his": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html"
+    ],
+    "hist": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html"
+    ],
+    "history": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html"
+    ],
+    "iitg": [
+        "http://bidya.iitg.ernet.in/",
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in/opac/journals/null",
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in/opac/search/search.html",
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/null",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "in:": [
+        "http://bidya.iitg.ernet.in:8680/opac/",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/null",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "ion": [
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html"
+    ],
+    "isbn": [
+        "http://bidya.iitg.ernet.in/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in:8680/opac/isbnNo/isbn.html"
+    ],
+    "isbnNo": [
+        "http://bidya.iitg.ernet.in/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in:8680/opac/isbnNo/isbn.html"
+    ],
+    "journal": [
+        "http://bidya.iitg.ernet.in/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in/opac/journals/null",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/null"
+    ],
+    "journals": [
+        "http://bidya.iitg.ernet.in/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in/opac/journals/null",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/null"
+    ],
+    "log": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html"
+    ],
+    "my": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html"
+    ],
+    "myAccount": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html"
+    ],
+    "myProfile": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html"
+    ],
+    "myaccount": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html"
+    ],
+    "net": [
+        "http://bidya.iitg.ernet.in/",
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in/opac/journals/null",
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in/opac/search/search.html",
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/null",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "new": [
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html"
+    ],
+    "newAddition": [
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html"
+    ],
+    "newaddition": [
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html"
+    ],
+    "null": [
+        "http://bidya.iitg.ernet.in/opac/journals/null",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/null"
+    ],
+    "opac": [
+        "http://bidya.iitg.ernet.in/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in/opac/journals/null",
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in/opac/search/search.html",
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/",
+        "http://bidya.iitg.ernet.in:8680/opac/OpacHelp/SearchTips.htm",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/isbnNo/isbn.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/null",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "ount": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html"
+    ],
+    "our": [
+        "http://bidya.iitg.ernet.in/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in/opac/journals/null",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/null"
+    ],
+    "out": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html"
+    ],
+    "row": [
+        "http://bidya.iitg.ernet.in/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html"
+    ],
+    "rows": [
+        "http://bidya.iitg.ernet.in/opac/browse/browse.html",
+        "http://bidya.iitg.ernet.in:8680/opac/browse/browse.html"
+    ],
+    "sea": [
+        "http://bidya.iitg.ernet.in/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html"
+    ],
+    "sear": [
+        "http://bidya.iitg.ernet.in/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html"
+    ],
+    "search": [
+        "http://bidya.iitg.ernet.in/opac/search/search.html",
+        "http://bidya.iitg.ernet.in:8680/opac/search/search.html"
+    ],
+    "story": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html"
+    ],
+    "sword": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html"
+    ],
+    "tail": [
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "tails": [
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "tor": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html"
+    ],
+    "urn": [
+        "http://bidya.iitg.ernet.in/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in/opac/journals/null",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/journals.html",
+        "http://bidya.iitg.ernet.in:8680/opac/journals/null"
+    ],
+    "use": [
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "user": [
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "userDetails": [
+        "http://bidya.iitg.ernet.in/opac/userDetails",
+        "http://bidya.iitg.ernet.in:8680/opac/userDetails"
+    ],
+    "wad": [
+        "http://bidya.iitg.ernet.in/opac/newaddition/newAddition.html",
+        "http://bidya.iitg.ernet.in:8680/opac/newaddition/newAddition.html"
+    ],
+    "word": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html"
+    ],
+    "yacc": [
+        "http://bidya.iitg.ernet.in/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in/opac/myaccount/myProfile.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/changePassword.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/checkout.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/history.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/log.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myAccount.html",
+        "http://bidya.iitg.ernet.in:8680/opac/myaccount/myProfile.html"
+    ]
+}

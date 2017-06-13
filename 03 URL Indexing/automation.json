@@ -1,0 +1,431 @@
+{
+    "acad": [
+        "https://automation.iitg.ernet.in/acad"
+    ],
+    "alias": [
+        "https://automation.iitg.ernet.in/calias"
+    ],
+    "arc": [
+        "https://automation.iitg.ernet.in/research"
+    ],
+    "arch": [
+        "https://automation.iitg.ernet.in/research"
+    ],
+    "auto": [
+        "https://automation.iitg.ernet.in/",
+        "https://automation.iitg.ernet.in/research",
+        "https://automation.iitg.ernet.in/acad",
+        "https://automation.iitg.ernet.in/automation/",
+        "https://automation.iitg.ernet.in/calias",
+        "https://automation.iitg.ernet.in/electricity",
+        "https://automation.iitg.ernet.in/fb",
+        "https://automation.iitg.ernet.in/fleave",
+        "https://automation.iitg.ernet.in/idcard",
+        "https://automation.iitg.ernet.in/medical",
+        "https://automation.iitg.ernet.in/nodues",
+        "https://automation.iitg.ernet.in/payroll",
+        "https://automation.iitg.ernet.in/pda/",
+        "https://automation.iitg.ernet.in/pf",
+        "https://automation.iitg.ernet.in/reg",
+        "https://automation.iitg.ernet.in/reimburse",
+        "https://automation.iitg.ernet.in/rnd",
+        "http://automation.iitg.ernet.in/rndops",
+        "https://automation.iitg.ernet.in/sa",
+        "https://automation.iitg.ernet.in/sishugram",
+        "https://automation.iitg.ernet.in/sleave",
+        "https://automation.iitg.ernet.in/sprofile/",
+        "https://automation.iitg.ernet.in/tauth"
+    ],
+    "automation": [
+        "https://automation.iitg.ernet.in/",
+        "https://automation.iitg.ernet.in/research",
+        "https://automation.iitg.ernet.in/acad",
+        "https://automation.iitg.ernet.in/automation/",
+        "https://automation.iitg.ernet.in/calias",
+        "https://automation.iitg.ernet.in/electricity",
+        "https://automation.iitg.ernet.in/fb",
+        "https://automation.iitg.ernet.in/fleave",
+        "https://automation.iitg.ernet.in/idcard",
+        "https://automation.iitg.ernet.in/medical",
+        "https://automation.iitg.ernet.in/nodues",
+        "https://automation.iitg.ernet.in/payroll",
+        "https://automation.iitg.ernet.in/pda/",
+        "https://automation.iitg.ernet.in/pf",
+        "https://automation.iitg.ernet.in/reg",
+        "https://automation.iitg.ernet.in/reimburse",
+        "https://automation.iitg.ernet.in/rnd",
+        "http://automation.iitg.ernet.in/rndops",
+        "https://automation.iitg.ernet.in/sa",
+        "https://automation.iitg.ernet.in/sishugram",
+        "https://automation.iitg.ernet.in/sleave",
+        "https://automation.iitg.ernet.in/sprofile/",
+        "https://automation.iitg.ernet.in/tauth"
+    ],
+    "automation.iitg.ernet.in": [
+        "https://automation.iitg.ernet.in/",
+        "https://automation.iitg.ernet.in/research",
+        "https://automation.iitg.ernet.in/acad",
+        "https://automation.iitg.ernet.in/automation/",
+        "https://automation.iitg.ernet.in/calias",
+        "https://automation.iitg.ernet.in/electricity",
+        "https://automation.iitg.ernet.in/fb",
+        "https://automation.iitg.ernet.in/fleave",
+        "https://automation.iitg.ernet.in/idcard",
+        "https://automation.iitg.ernet.in/medical",
+        "https://automation.iitg.ernet.in/nodues",
+        "https://automation.iitg.ernet.in/payroll",
+        "https://automation.iitg.ernet.in/pda/",
+        "https://automation.iitg.ernet.in/pf",
+        "https://automation.iitg.ernet.in/reg",
+        "https://automation.iitg.ernet.in/reimburse",
+        "https://automation.iitg.ernet.in/rnd",
+        "http://automation.iitg.ernet.in/rndops",
+        "https://automation.iitg.ernet.in/sa",
+        "https://automation.iitg.ernet.in/sishugram",
+        "https://automation.iitg.ernet.in/sleave",
+        "https://automation.iitg.ernet.in/sprofile/",
+        "https://automation.iitg.ernet.in/tauth"
+    ],
+    "ave": [
+        "https://automation.iitg.ernet.in/fleave",
+        "https://automation.iitg.ernet.in/sleave"
+    ],
+    "bur": [
+        "https://automation.iitg.ernet.in/reimburse"
+    ],
+    "burs": [
+        "https://automation.iitg.ernet.in/reimburse"
+    ],
+    "cad": [
+        "https://automation.iitg.ernet.in/acad"
+    ],
+    "cal": [
+        "https://automation.iitg.ernet.in/calias",
+        "https://automation.iitg.ernet.in/medical"
+    ],
+    "calias": [
+        "https://automation.iitg.ernet.in/calias"
+    ],
+    "car": [
+        "https://automation.iitg.ernet.in/idcard"
+    ],
+    "card": [
+        "https://automation.iitg.ernet.in/idcard"
+    ],
+    "cit": [
+        "https://automation.iitg.ernet.in/electricity"
+    ],
+    "city": [
+        "https://automation.iitg.ernet.in/electricity"
+    ],
+    "ctr": [
+        "https://automation.iitg.ernet.in/electricity"
+    ],
+    "due": [
+        "https://automation.iitg.ernet.in/nodues"
+    ],
+    "dues": [
+        "https://automation.iitg.ernet.in/nodues"
+    ],
+    "ear": [
+        "https://automation.iitg.ernet.in/research"
+    ],
+    "eave": [
+        "https://automation.iitg.ernet.in/fleave",
+        "https://automation.iitg.ernet.in/sleave"
+    ],
+    "elect": [
+        "https://automation.iitg.ernet.in/electricity"
+    ],
+    "electric": [
+        "https://automation.iitg.ernet.in/electricity"
+    ],
+    "electricity": [
+        "https://automation.iitg.ernet.in/electricity"
+    ],
+    "er": [
+        "https://automation.iitg.ernet.in/",
+        "https://automation.iitg.ernet.in/research",
+        "https://automation.iitg.ernet.in/acad",
+        "https://automation.iitg.ernet.in/automation/",
+        "https://automation.iitg.ernet.in/calias",
+        "https://automation.iitg.ernet.in/electricity",
+        "https://automation.iitg.ernet.in/fb",
+        "https://automation.iitg.ernet.in/fleave",
+        "https://automation.iitg.ernet.in/idcard",
+        "https://automation.iitg.ernet.in/medical",
+        "https://automation.iitg.ernet.in/nodues",
+        "https://automation.iitg.ernet.in/payroll",
+        "https://automation.iitg.ernet.in/pda/",
+        "https://automation.iitg.ernet.in/pf",
+        "https://automation.iitg.ernet.in/reg",
+        "https://automation.iitg.ernet.in/reimburse",
+        "https://automation.iitg.ernet.in/rnd",
+        "http://automation.iitg.ernet.in/rndops",
+        "https://automation.iitg.ernet.in/sa",
+        "https://automation.iitg.ernet.in/sishugram",
+        "https://automation.iitg.ernet.in/sleave",
+        "https://automation.iitg.ernet.in/sprofile/",
+        "https://automation.iitg.ernet.in/tauth"
+    ],
+    "fb": [
+        "https://automation.iitg.ernet.in/fb"
+    ],
+    "file": [
+        "https://automation.iitg.ernet.in/sprofile/"
+    ],
+    "flea": [
+        "https://automation.iitg.ernet.in/fleave"
+    ],
+    "fleave": [
+        "https://automation.iitg.ernet.in/fleave"
+    ],
+    "gram": [
+        "https://automation.iitg.ernet.in/sishugram"
+    ],
+    "hug": [
+        "https://automation.iitg.ernet.in/sishugram"
+    ],
+    "ias": [
+        "https://automation.iitg.ernet.in/calias"
+    ],
+    "id": [
+        "https://automation.iitg.ernet.in/idcard"
+    ],
+    "idcard": [
+        "https://automation.iitg.ernet.in/idcard"
+    ],
+    "iitg": [
+        "https://automation.iitg.ernet.in/",
+        "https://automation.iitg.ernet.in/research",
+        "https://automation.iitg.ernet.in/acad",
+        "https://automation.iitg.ernet.in/automation/",
+        "https://automation.iitg.ernet.in/calias",
+        "https://automation.iitg.ernet.in/electricity",
+        "https://automation.iitg.ernet.in/fb",
+        "https://automation.iitg.ernet.in/fleave",
+        "https://automation.iitg.ernet.in/idcard",
+        "https://automation.iitg.ernet.in/medical",
+        "https://automation.iitg.ernet.in/nodues",
+        "https://automation.iitg.ernet.in/payroll",
+        "https://automation.iitg.ernet.in/pda/",
+        "https://automation.iitg.ernet.in/pf",
+        "https://automation.iitg.ernet.in/reg",
+        "https://automation.iitg.ernet.in/reimburse",
+        "https://automation.iitg.ernet.in/rnd",
+        "http://automation.iitg.ernet.in/rndops",
+        "https://automation.iitg.ernet.in/sa",
+        "https://automation.iitg.ernet.in/sishugram",
+        "https://automation.iitg.ernet.in/sleave",
+        "https://automation.iitg.ernet.in/sprofile/",
+        "https://automation.iitg.ernet.in/tauth"
+    ],
+    "ion": [
+        "https://automation.iitg.ernet.in/",
+        "https://automation.iitg.ernet.in/research",
+        "https://automation.iitg.ernet.in/acad",
+        "https://automation.iitg.ernet.in/automation/",
+        "https://automation.iitg.ernet.in/calias",
+        "https://automation.iitg.ernet.in/electricity",
+        "https://automation.iitg.ernet.in/fb",
+        "https://automation.iitg.ernet.in/fleave",
+        "https://automation.iitg.ernet.in/idcard",
+        "https://automation.iitg.ernet.in/medical",
+        "https://automation.iitg.ernet.in/nodues",
+        "https://automation.iitg.ernet.in/payroll",
+        "https://automation.iitg.ernet.in/pda/",
+        "https://automation.iitg.ernet.in/pf",
+        "https://automation.iitg.ernet.in/reg",
+        "https://automation.iitg.ernet.in/reimburse",
+        "https://automation.iitg.ernet.in/rnd",
+        "http://automation.iitg.ernet.in/rndops",
+        "https://automation.iitg.ernet.in/sa",
+        "https://automation.iitg.ernet.in/sishugram",
+        "https://automation.iitg.ernet.in/sleave",
+        "https://automation.iitg.ernet.in/sprofile/",
+        "https://automation.iitg.ernet.in/tauth"
+    ],
+    "lea": [
+        "https://automation.iitg.ernet.in/fleave",
+        "https://automation.iitg.ernet.in/sleave"
+    ],
+    "leave": [
+        "https://automation.iitg.ernet.in/sleave",
+        "https://automation.iitg.ernet.in/fleave"
+    ],
+    "mat": [
+        "https://automation.iitg.ernet.in/",
+        "https://automation.iitg.ernet.in/research",
+        "https://automation.iitg.ernet.in/acad",
+        "https://automation.iitg.ernet.in/automation/",
+        "https://automation.iitg.ernet.in/calias",
+        "https://automation.iitg.ernet.in/electricity",
+        "https://automation.iitg.ernet.in/fb",
+        "https://automation.iitg.ernet.in/fleave",
+        "https://automation.iitg.ernet.in/idcard",
+        "https://automation.iitg.ernet.in/medical",
+        "https://automation.iitg.ernet.in/nodues",
+        "https://automation.iitg.ernet.in/payroll",
+        "https://automation.iitg.ernet.in/pda/",
+        "https://automation.iitg.ernet.in/pf",
+        "https://automation.iitg.ernet.in/reg",
+        "https://automation.iitg.ernet.in/reimburse",
+        "https://automation.iitg.ernet.in/rnd",
+        "http://automation.iitg.ernet.in/rndops",
+        "https://automation.iitg.ernet.in/sa",
+        "https://automation.iitg.ernet.in/sishugram",
+        "https://automation.iitg.ernet.in/sleave",
+        "https://automation.iitg.ernet.in/sprofile/",
+        "https://automation.iitg.ernet.in/tauth"
+    ],
+    "med": [
+        "https://automation.iitg.ernet.in/medical"
+    ],
+    "medic": [
+        "https://automation.iitg.ernet.in/medical"
+    ],
+    "medical": [
+        "https://automation.iitg.ernet.in/medical"
+    ],
+    "net": [
+        "https://automation.iitg.ernet.in/",
+        "https://automation.iitg.ernet.in/research",
+        "https://automation.iitg.ernet.in/acad",
+        "https://automation.iitg.ernet.in/automation/",
+        "https://automation.iitg.ernet.in/calias",
+        "https://automation.iitg.ernet.in/electricity",
+        "https://automation.iitg.ernet.in/fb",
+        "https://automation.iitg.ernet.in/fleave",
+        "https://automation.iitg.ernet.in/idcard",
+        "https://automation.iitg.ernet.in/medical",
+        "https://automation.iitg.ernet.in/nodues",
+        "https://automation.iitg.ernet.in/payroll",
+        "https://automation.iitg.ernet.in/pda/",
+        "https://automation.iitg.ernet.in/pf",
+        "https://automation.iitg.ernet.in/reg",
+        "https://automation.iitg.ernet.in/reimburse",
+        "https://automation.iitg.ernet.in/rnd",
+        "http://automation.iitg.ernet.in/rndops",
+        "https://automation.iitg.ernet.in/sa",
+        "https://automation.iitg.ernet.in/sishugram",
+        "https://automation.iitg.ernet.in/sleave",
+        "https://automation.iitg.ernet.in/sprofile/",
+        "https://automation.iitg.ernet.in/tauth"
+    ],
+    "nod": [
+        "https://automation.iitg.ernet.in/nodues"
+    ],
+    "nodues": [
+        "https://automation.iitg.ernet.in/nodues"
+    ],
+    "ops": [
+        "http://automation.iitg.ernet.in/rndops"
+    ],
+    "pay": [
+        "https://automation.iitg.ernet.in/payroll"
+    ],
+    "payroll": [
+        "https://automation.iitg.ernet.in/payroll"
+    ],
+    "pda": [
+        "https://automation.iitg.ernet.in/pda/"
+    ],
+    "pf": [
+        "https://automation.iitg.ernet.in/pf"
+    ],
+    "pro": [
+        "https://automation.iitg.ernet.in/sprofile/"
+    ],
+    "prof": [
+        "https://automation.iitg.ernet.in/sprofile/"
+    ],
+    "profile": [
+        "https://automation.iitg.ernet.in/sprofile/"
+    ],
+    "ram": [
+        "https://automation.iitg.ernet.in/sishugram"
+    ],
+    "reg": [
+        "https://automation.iitg.ernet.in/reg"
+    ],
+    "reimburse": [
+        "https://automation.iitg.ernet.in/reimburse"
+    ],
+    "res": [
+        "https://automation.iitg.ernet.in/research"
+    ],
+    "research": [
+        "https://automation.iitg.ernet.in/research"
+    ],
+    "rnd": [
+        "https://automation.iitg.ernet.in/rnd",
+        "http://automation.iitg.ernet.in/rndops"
+    ],
+    "rndops": [
+        "http://automation.iitg.ernet.in/rndops"
+    ],
+    "roll": [
+        "https://automation.iitg.ernet.in/payroll"
+    ],
+    "sa": [
+        "https://automation.iitg.ernet.in/sa"
+    ],
+    "sea": [
+        "https://automation.iitg.ernet.in/research"
+    ],
+    "sear": [
+        "https://automation.iitg.ernet.in/research"
+    ],
+    "search": [
+        "https://automation.iitg.ernet.in/research"
+    ],
+    "sis": [
+        "https://automation.iitg.ernet.in/sishugram"
+    ],
+    "sishugram": [
+        "https://automation.iitg.ernet.in/sishugram"
+    ],
+    "sleave": [
+        "https://automation.iitg.ernet.in/sleave"
+    ],
+    "sprofile": [
+        "https://automation.iitg.ernet.in/sprofile/"
+    ],
+    "tau": [
+        "https://automation.iitg.ernet.in/tauth"
+    ],
+    "taut": [
+        "https://automation.iitg.ernet.in/tauth"
+    ],
+    "tauth": [
+        "https://automation.iitg.ernet.in/tauth"
+    ],
+    "tom": [
+        "https://automation.iitg.ernet.in/",
+        "https://automation.iitg.ernet.in/research",
+        "https://automation.iitg.ernet.in/acad",
+        "https://automation.iitg.ernet.in/automation/",
+        "https://automation.iitg.ernet.in/calias",
+        "https://automation.iitg.ernet.in/electricity",
+        "https://automation.iitg.ernet.in/fb",
+        "https://automation.iitg.ernet.in/fleave",
+        "https://automation.iitg.ernet.in/idcard",
+        "https://automation.iitg.ernet.in/medical",
+        "https://automation.iitg.ernet.in/nodues",
+        "https://automation.iitg.ernet.in/payroll",
+        "https://automation.iitg.ernet.in/pda/",
+        "https://automation.iitg.ernet.in/pf",
+        "https://automation.iitg.ernet.in/reg",
+        "https://automation.iitg.ernet.in/reimburse",
+        "https://automation.iitg.ernet.in/rnd",
+        "http://automation.iitg.ernet.in/rndops",
+        "https://automation.iitg.ernet.in/sa",
+        "https://automation.iitg.ernet.in/sishugram",
+        "https://automation.iitg.ernet.in/sleave",
+        "https://automation.iitg.ernet.in/sprofile/",
+        "https://automation.iitg.ernet.in/tauth"
+    ],
+    "ues": [
+        "https://automation.iitg.ernet.in/nodues"
+    ]
+}

@@ -1,0 +1,2 @@
+https://kamrup.iitg.ernet.in/finduser/finger.php
+https://kamrup.iitg.ernet.in/passwd

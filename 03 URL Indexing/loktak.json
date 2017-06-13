@@ -1,0 +1,141 @@
+{
+    "D;O": [
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=D"
+    ],
+    "M;O": [
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=D"
+    ],
+    "N;O": [
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=D"
+    ],
+    "S;O": [
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=D"
+    ],
+    "course": [
+        "http://loktak.iitg.ernet.in/course/"
+    ],
+    "er": [
+        "http://loktak.iitg.ernet.in/",
+        "http://loktak.iitg.ernet.in/course/",
+        "http://loktak.iitg.ernet.in/~jatin",
+        "http://loktak.iitg.ernet.in/~svrao",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=D"
+    ],
+    "iitg": [
+        "http://loktak.iitg.ernet.in/",
+        "http://loktak.iitg.ernet.in/course/",
+        "http://loktak.iitg.ernet.in/~jatin",
+        "http://loktak.iitg.ernet.in/~svrao",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=D"
+    ],
+    "loktak": [
+        "http://loktak.iitg.ernet.in/",
+        "http://loktak.iitg.ernet.in/course/",
+        "http://loktak.iitg.ernet.in/~jatin",
+        "http://loktak.iitg.ernet.in/~svrao",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=D"
+    ],
+    "loktak.iitg.ernet.in": [
+        "http://loktak.iitg.ernet.in/",
+        "http://loktak.iitg.ernet.in/course/",
+        "http://loktak.iitg.ernet.in/~jatin",
+        "http://loktak.iitg.ernet.in/~svrao",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=D"
+    ],
+    "net": [
+        "http://loktak.iitg.ernet.in/",
+        "http://loktak.iitg.ernet.in/course/",
+        "http://loktak.iitg.ernet.in/~jatin",
+        "http://loktak.iitg.ernet.in/~svrao",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=D"
+    ],
+    "our": [
+        "http://loktak.iitg.ernet.in/course/"
+    ],
+    "ours": [
+        "http://loktak.iitg.ernet.in/course/"
+    ],
+    "tin": [
+        "http://loktak.iitg.ernet.in/~jatin"
+    ],
+    "~ja": [
+        "http://loktak.iitg.ernet.in/~jatin"
+    ],
+    "~jatin": [
+        "http://loktak.iitg.ernet.in/~jatin"
+    ],
+    "~svrao": [
+        "http://loktak.iitg.ernet.in/~svrao",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=D",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=A",
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=D"
+    ],
+    "~svrao?C=D;O=A": [
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=A"
+    ],
+    "~svrao?C=D;O=D": [
+        "http://loktak.iitg.ernet.in/~svrao?C=D;O=D"
+    ],
+    "~svrao?C=M;O=A": [
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=A"
+    ],
+    "~svrao?C=M;O=D": [
+        "http://loktak.iitg.ernet.in/~svrao?C=M;O=D"
+    ],
+    "~svrao?C=N;O=A": [
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=A"
+    ],
+    "~svrao?C=N;O=D": [
+        "http://loktak.iitg.ernet.in/~svrao?C=N;O=D"
+    ],
+    "~svrao?C=S;O=A": [
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=A"
+    ],
+    "~svrao?C=S;O=D": [
+        "http://loktak.iitg.ernet.in/~svrao?C=S;O=D"
+    ]
+}
