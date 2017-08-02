@@ -2,6 +2,7 @@
 An Intranet Search Engine (Ongoing Project)
 
 ## Crawling The Intranet
+Crawling was started with the official home page of the intranet. All the links obtained was then filtered for unique valid links in this part of the process.
 
 ```python
 import sqlite3
@@ -22,7 +23,7 @@ def delete(link, tableName):
 
 ```
 
-Crawling of intranet was done with the help of 'requests' library for Python 3. Beautiful Soup was used for the parsing of HTML for searching new links on visited pages.
+Crawling of intranet was done with the help of requests library for Python3. We used Beautiful Soup for the parsing of HTML for searching new links on visited pages.
 
 ```python
 if not exists(address, "visited"): # then if not already visited go ahead
@@ -58,7 +59,7 @@ The links were then sorted and separated based on the domain names which were as
 
 ## Url Indexing
 
-The indexing 
+The second part of the process was to index the webpages based on the url of each link. An english spell checking library called PyEnchant was used for preprocessing only valid words for url indexing. 
 ```python
 import os
 import enchant
@@ -75,4 +76,32 @@ def add_key(lexes, string, link):
 				lexes[string] += [link.strip()]
 		else:
 			lexes[string] = [link.strip()]
+			
+	.
+	.
+	.
+	
+for link in links:
+	# print(link)
+	fk_string = link.split("//")[1].strip().strip(" ").strip("/").split("/")
+
+	for f_string in fk_string:
+		for string in re.split(r'[0-9\-\?\=&\.\(\)\+\_]',f_string):
+			i = 0
+			while i < len(string):
+				for j in range(len(string)-1, i+1, -1):
+					# print(string[i:j+1])
+# 
+					if isWord.check(string[i:j+1]):
+						add_key(lexes,string[i:j+1], link.strip())
+					elif string[i:j+1].lower() in tags:
+						add_key(lexes,string[i:j+1], link.strip())
 ```
+
+The indexes were then stored in Json format separately for the various sub-domain and then finally merged into a huge file of 6,581 keywords.
+
+```python
+	with open(filename.split('/')[1].split(".txt")[0]+'.json', 'w') as fp:
+	    json.dump(lexes, fp, sort_keys=True, indent=4)
+```
+
