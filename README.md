@@ -23,7 +23,7 @@ def delete(link, tableName):
 
 ```
 
-Crawling of intranet was done with the help of requests library for Python3. We used Beautiful Soup for the parsing of HTML for searching new links on visited pages.
+Crawling of intranet was done with the help of **requests** library for Python3. We used **Beautiful Soup** for the parsing of HTML for searching new links on visited pages.
 
 ```python
 if not exists(address, "visited"): # then if not already visited go ahead
@@ -49,17 +49,17 @@ if not exists(address, "visited"): # then if not already visited go ahead
 	except requests.exceptions.RequestException as e: 
 		print(e)
 ```
-A database was implemented with Sqlite3 in the form of a stack. A database was required because the number of intranet links easily crossed 50,000 due to which it wasn't safe to implement it in a simple array or stack on RAM. 
+A database was implemented with **Sqlite3** as a stack. A database was required because the number of intranet links to be crawled easily crossed 50,000 due to which it wasn't safe to implement it in a simple array or stack on RAM. 
 
 When the database creation was complete, it needed some filtering as there were some duplicate links due to white spaces and other issues.
 The code for filtering the links are present in the 'Cleaning' folder.
 
-The links were then sorted and separated based on the domain names which were as shown in the image given below.
+The links were then sorted and separately stored based on the domain names which are as shown in the image given below.
 ![alt text](https://github.com/OrionMonk/Pie/blob/master/image_files/sub-domains.png)
 
 ## Url Indexing
 
-The second part of the process was to index the webpages based on the url of each link. An english spell checking library called PyEnchant was used for preprocessing only valid words for url indexing. Here, lexes are used to mean the indexed keywords.
+The second part of the process was to index the webpages based on the url of each link. An english *spell-check* library called **PyEnchant** was used for preprocessing valid words for url indexing. Here, lexes are used to mean the indexed keywords.
 ```python
 import os
 import enchant
@@ -97,7 +97,7 @@ for link in links:
 						add_key(lexes,string[i:j+1], link.strip())
 ```
 
-The indexes were then stored in Json format separately for the various sub-domain and then finally merged into a huge file of 6,581 keywords.
+The indexes were then stored in Json format separately for the various sub-domains. 
 
 ```python
 # for each filename (which here mean the separate sub domains which are stored in separate files)
@@ -105,5 +105,5 @@ with open(filename.split('/')[1].split(".txt")[0]+'.json', 'w') as fp:
 	json.dump(lexes, fp, sort_keys=True, indent=4)
 ```
 
-The Json Output File looks like:
+The indexes were then finally merged into a huge file of 6,581 keywords.The Json Output File looks like:
 ![alt text](https://github.com/OrionMonk/Pie/blob/master/image_files/json_index.png)
