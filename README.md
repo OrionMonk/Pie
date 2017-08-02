@@ -55,11 +55,11 @@ When the database creation was complete, it needed some filtering as there were 
 The code for filtering the links are present in the 'Cleaning' folder.
 
 The links were then sorted and separated based on the domain names which were as shown in the image given below.
-![alt text](https://github.com/OrionMonk/Pie/blob/master/image_files/3.png)
+![alt text](https://github.com/OrionMonk/Pie/blob/master/image_files/sub-domains.png)
 
 ## Url Indexing
 
-The second part of the process was to index the webpages based on the url of each link. An english spell checking library called PyEnchant was used for preprocessing only valid words for url indexing. 
+The second part of the process was to index the webpages based on the url of each link. An english spell checking library called PyEnchant was used for preprocessing only valid words for url indexing. Here, lexes are used to mean the indexed keywords.
 ```python
 import os
 import enchant
@@ -82,16 +82,15 @@ def add_key(lexes, string, link):
 	.
 	
 for link in links:
-	# print(link)
 	fk_string = link.split("//")[1].strip().strip(" ").strip("/").split("/")
 
 	for f_string in fk_string:
 		for string in re.split(r'[0-9\-\?\=&\.\(\)\+\_]',f_string):
 			i = 0
+			
 			while i < len(string):
 				for j in range(len(string)-1, i+1, -1):
-					# print(string[i:j+1])
-# 
+				
 					if isWord.check(string[i:j+1]):
 						add_key(lexes,string[i:j+1], link.strip())
 					elif string[i:j+1].lower() in tags:
@@ -101,7 +100,10 @@ for link in links:
 The indexes were then stored in Json format separately for the various sub-domain and then finally merged into a huge file of 6,581 keywords.
 
 ```python
-	with open(filename.split('/')[1].split(".txt")[0]+'.json', 'w') as fp:
-	    json.dump(lexes, fp, sort_keys=True, indent=4)
+# for each filename (which here mean the separate sub domains which are stored in separate files)
+with open(filename.split('/')[1].split(".txt")[0]+'.json', 'w') as fp:
+	json.dump(lexes, fp, sort_keys=True, indent=4)
 ```
 
+The Json Output File looks like:
+![alt text](https://github.com/OrionMonk/Pie/blob/master/image_files/json_index.png)
