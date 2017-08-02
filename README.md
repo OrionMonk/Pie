@@ -2,7 +2,7 @@
 An Intranet Search Engine (Ongoing Project)
 
 ## Crawling The Intranet
-The web crawling process was initiated with the official home page of the intranet. All the links obtained was then filtered for unique valid links in this part of the process.
+The web crawling process was initiated with the official home page of the intranet. All the links obtained were then filtered for unique valid links in this part of the process.
 
 ```python
 import sqlite3
