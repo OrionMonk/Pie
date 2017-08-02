@@ -27,13 +27,10 @@ Crawling of intranet was done with the help of **requests** library for Python3.
 ```python
 if not exists(address, "visited"): # then if not already visited go ahead
 	try:
-		print(address, end=" - ")
-
 		response = requests.get(address)
 		soup = BeautifulSoup(response.text, "html.parser")
 
 		insert(address,"visited")
-		print("Crawled")
 
 		morelinks = []
 		for link in soup.find_all('a'):
@@ -43,7 +40,6 @@ if not exists(address, "visited"): # then if not already visited go ahead
 				else:
 					morelinks.append(link.get("href"))
 
-		flag = True
 		return morelinks
 	except requests.exceptions.RequestException as e: 
 		print(e)
