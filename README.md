@@ -26,27 +26,27 @@ Crawling of intranet was done with the help of 'requests' library for Python 3. 
 
 ```python
 if not exists(address, "visited"): # then if not already visited go ahead
-				try:
-					print(address, end=" - ")
+	try:
+		print(address, end=" - ")
 
-					response = requests.get(address)
-					soup = BeautifulSoup(response.text, "html.parser")
+		response = requests.get(address)
+		soup = BeautifulSoup(response.text, "html.parser")
 
-					insert(address,"visited")
-					print("Crawled")
+		insert(address,"visited")
+		print("Crawled")
 
-					morelinks = []
-					for link in soup.find_all('a'):
-						if link.get("href") != None:
-							if not link.get("href").startswith("http"):
-								morelinks.append(urljoin(address, link.get("href")))
-							else:
-								morelinks.append(link.get("href"))
+		morelinks = []
+		for link in soup.find_all('a'):
+			if link.get("href") != None:
+				if not link.get("href").startswith("http"):
+					morelinks.append(urljoin(address, link.get("href")))
+				else:
+					morelinks.append(link.get("href"))
 
-					flag = True
-					return morelinks
-				except requests.exceptions.RequestException as e: 
-			   		print(e)
+		flag = True
+		return morelinks
+	except requests.exceptions.RequestException as e: 
+		print(e)
 ```
 A database was implemented with Sqlite3 in the form of a stack. A database was required because the number of intranet links easily crossed 50,000 due to which it wasn't safe to implement it in a simple array or stack on RAM. 
 
