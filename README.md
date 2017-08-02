@@ -106,4 +106,4 @@ with open(filename.split('/')[1].split(".txt")[0]+'.json', 'w') as fp:
 ```
 
 The indexes were then finally merged into a huge file of 6,581 keywords.The Json Output File looks like:
-![alt text](https://github.com/OrionMonk/Pie/blob/master/image_files/json_index.png)
+![alt text](https://github.com/OrionMonk/Pie/blob/master/image_files/url-indices.png)
